@@ -16,4 +16,4 @@
  - Запустить curl http://localhost:8000/homework.html 
 
 ## PR checklist:
- - [ ] Выставлен label с номером домашнего задания
+ - [x] Выставлен label с номером домашнего задания
