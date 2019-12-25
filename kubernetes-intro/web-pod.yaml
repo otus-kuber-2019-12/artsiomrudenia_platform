@@ -6,7 +6,7 @@ metadata:
     app: web
 spec:
   containers:
-  - image: arudenia/web:latest
+  - image: arudenia/simple-web:latest
     name: web
     volumeMounts:
     - name: app
