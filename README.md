@@ -28,7 +28,13 @@
  - Создали replicaset и deployments для сервисов frontend и paymentservice. Для frontend deployment добавлена readiness probe.
  - ReplicaSet не обновляет версии запущенных под, т.к. следит только за их количеством.
  - Для paymentservice созданы 2 доп. варианта развертывания: blue-green и reverse
- - 
+
+## PR checklist:
+ - [x] Выставлен label с номером домашнего задания
+ 
+  # Выполнено ДЗ №3
+## В процессе сделано:
+ - Создали для kind-кластера пользователей, namespaces, раздали им различные права
 
 ## PR checklist:
  - [x] Выставлен label с номером домашнего задания
